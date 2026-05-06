@@ -1,0 +1,16 @@
+@use "sass:color";
+
+$font-family-sans-serif:
+  -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue",
+  arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$font-family-serif: "Georgia", "Times New Roman", serif;
+$primary: #7a3f16;
+$secondary: #b47a32;
+$success: #4f6f30;
+$warning: #d9a441;
+$danger: #b93829;
+$font-family-base: "Georgia", "Times New Roman", serif;
+$border-radius: 0.75rem;
+$border-radius-lg: 1.25rem;
+$btn-padding-y: 0.75rem;
+$btn-padding-x: 1.25rem;

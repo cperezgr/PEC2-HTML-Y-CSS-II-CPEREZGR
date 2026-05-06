@@ -1,0 +1,9 @@
+@layer utilities {
+  .u-text-balance {
+    text-wrap: balance;
+  }
+
+  .u-container-query {
+    container-type: inline-size;
+  }
+}

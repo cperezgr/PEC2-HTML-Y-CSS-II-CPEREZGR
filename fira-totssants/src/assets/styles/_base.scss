@@ -1,0 +1,15 @@
+@layer base {
+  body {
+    background-color: #f8f1e7;
+    color: #2f241d;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  a {
+    color: inherit;
+  }
+}
