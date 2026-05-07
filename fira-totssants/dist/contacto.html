@@ -1,0 +1,189 @@
+<!DOCTYPE html><html><head><link rel="stylesheet" href="fira-totssants.8c2b4086.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" type="image/png" href="logo1.dd3067ba.png">
+    <link rel="stylesheet" type="text/css" href="fira-totssants.3377c607.css">
+    <!-- do not remove this line! -->
+    <title>Fira tots Sants</title>
+  </head>
+  <body>
+    <header class="site-header">
+  <nav class="navbar navbar-expand-lg">
+    <div class="container">
+      <a class="navbar-brand d-flex align-items-center" href="index.html">
+        <img src="logo1.dd3067ba.png" alt="Fira Tots Sants" class="site-logo">
+        <span class="ms-2">Fira Tots Sants</span>
+      </a>
+
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNavbar" aria-controls="mainNavbar" aria-expanded="false" aria-label="Abrir navegación">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="mainNavbar">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">
+              <i class="fa-solid fa-house"></i> Portada
+            </a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="ponentes.html">
+              <i class="fa-solid fa-users"></i> Ponentes
+            </a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="articulo.html">
+              <i class="fa-solid fa-newspaper"></i> Artículo
+            </a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="contacto.html">
+              <i class="fa-solid fa-envelope"></i> Contacto
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
+
+
+    <main class="page contact-page">
+      <section class="container contact">
+        <header class="page__header contact__header">
+          <p class="contact__eyebrow">Participa en la feria</p>
+          <h1 class="page__title">Contacto</h1>
+          <p class="page__intro">
+            Escríbenos si quieres participar como expositor, proponer una charla
+            o solicitar más información sobre la Fira Tots Sants Cocentaina
+            2026.
+          </p>
+        </header>
+
+        <div class="contact__layout">
+          <aside class="contact__info card">
+            <div class="card-body">
+              <h2 class="h4 card-title">Información práctica</h2>
+
+              <ul class="contact__list">
+                <li>
+                  <i class="fa-solid fa-location-dot"></i> Cocentaina, Alicante
+                </li>
+                <li>
+                  <i class="fa-solid fa-calendar"></i> 1, 2 y 3 de noviembre de
+                  2026
+                </li>
+                <li>
+                  <i class="fa-solid fa-tractor"></i> Agricultura, maquinaria y
+                  oficios tradicionales
+                </li>
+                <li>
+                  <i class="fa-solid fa-chess-rook"></i> Mercado medieval y
+                  actividades familiares
+                </li>
+              </ul>
+
+              <button type="button" class="btn btn-outline-primary" data-bs-toggle="modal" data-bs-target="#infoModal">
+                Ver más información
+              </button>
+            </div>
+          </aside>
+
+          <form class="contact__form card" name="contact" method="POST" data-netlify="true">
+            <input type="hidden" name="form-name" value="contact">
+
+            <div class="card-body">
+              <h2 class="h4 card-title">Formulario de contacto</h2>
+
+              <div class="mb-3">
+                <label for="name" class="form-label">Nombre</label>
+                <input id="name" class="form-control" type="text" name="name" required="">
+              </div>
+
+              <div class="mb-3">
+                <label for="email" class="form-label">Correo electrónico</label>
+                <input id="email" class="form-control" type="email" name="email" required="">
+              </div>
+
+              <div class="mb-3">
+                <label for="topic" class="form-label">Motivo</label>
+                <select id="topic" class="form-select" name="topic">
+                  <option>Quiero participar como expositor</option>
+                  <option>Quiero proponer una charla</option>
+                  <option>Necesito información general</option>
+                </select>
+              </div>
+
+              <div class="mb-3">
+                <label for="message" class="form-label">Mensaje</label>
+                <textarea id="message" class="form-control" name="message" rows="5"></textarea>
+              </div>
+
+              <button class="btn btn-primary" type="submit">
+                Enviar mensaje
+              </button>
+            </div>
+          </form>
+        </div>
+      </section>
+
+      <div class="modal fade" id="infoModal" tabindex="-1" aria-labelledby="infoModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h2 class="modal-title fs-5" id="infoModalLabel">
+                Sobre la Fira Tots Sants
+              </h2>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+            </div>
+
+            <div class="modal-body">
+              La feria combina programación cultural, espacios comerciales,
+              demostraciones de oficios tradicionales y actividades vinculadas
+              al territorio agrícola de Cocentaina.
+            </div>
+
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">
+                Cerrar
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <footer class="site-footer">
+  <div class="container site-footer__inner">
+    <p class="site-footer__brand">
+      Fira Tots Sants Cocentaina 2026 - PEC2 Cristina
+    </p>
+
+    <ul class="site-footer__links">
+      <li><a href="index.html">Portada</a></li>
+      <li><a href="ponentes.html">Ponentes</a></li>
+      <li><a href="articulo.html">Artículo</a></li>
+      <li><a href="contacto.html">Contacto</a></li>
+    </ul>
+
+    <ul class="site-footer__links">
+      <li>
+        <a href="#"><i class="fa-brands fa-facebook"></i></a>
+      </li>
+      <li>
+        <a href="#"><i class="fa-brands fa-instagram"></i></a>
+      </li>
+      <li>
+        <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+      </li>
+    </ul>
+  </div>
+</footer>
+
+    <script type="module" src="fira-totssants.8191162c.js"></script>
+  
+
+</body></html>
