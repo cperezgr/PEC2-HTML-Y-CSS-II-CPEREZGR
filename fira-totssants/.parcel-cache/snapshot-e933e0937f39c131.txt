@@ -18,7 +18,7 @@
 136C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\stylelint\lib\utils\reportCommentProblem.mjs134225787942494880 0
 116C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\weak-lru-cache\README.md134225787881608162 0
 130C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\rimraf\dist\commonjs\retry-busy.js.map134225787907706927 0
-83C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist134227381604454832 1
+83C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist134227391532131998 1
 143C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs\solid\shrimp.svg134225788086448887 0
 162C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@parcel\transformer-babel\node_modules\semver\ranges\max-satisfying.js134225787892886281 0
 108C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\clone\.npmignore134225787870858757 0
@@ -35,7 +35,7 @@
 127C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\es-abstract\2022\thisBigIntValue.js134225787980242710 0
 118C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\object.assign\package.json134225787893063897 0
 129C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\caniuse-lite\data\features\css-all.js134225787915711409 0
-89C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\.gitignore134225787576172405 0
+89C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\.gitignore134227383045289450 0
 150C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\list-1-2.svg134225788050760477 0
 114C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\get-symbol-description134225787882871285 1
 143C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\caniuse-lite\data\features\css-placeholder-shown.js134225787929588188 0
@@ -292,7 +292,7 @@
 145C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\stylelint-scss\src\rules\at-function-pattern\index.js134225787897572855 0
 142C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@parcel\error-overlay\src\containers\StackFrame.js134225787893812083 0
 154C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs\brands\instagram-square.svg134225788043881789 0
-113C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\src\assets\styles\_components.scss134227381536912427 0
+113C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\src\assets\styles\_components.scss134227390475388438 0
 135C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\type-fest\source\union-to-intersection.d.ts134225787896448094 0
 140C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\caniuse-lite\data\features\element-from-point.js134225787940296080 0
 126C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\sharp\node_modules\.bin\semver.cmd134225788127234493 0
@@ -305,7 +305,7 @@
 116C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\ansi-styles\package.json134225787872929954 0
 134C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\css-tree\cjs\syntax\node\ClassSelector.cjs134225787889975076 0
 156C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs-full\brands\unreal-engine.svg134225788113352592 0
-109C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\src\assets\styles\_layout.scss134225787576965713 0
+109C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\src\assets\styles\_layout.scss134227388763813534 0
 122C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@swc\helpers\src\_decorate.mjs134225787937685998 0
 143C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs\solid\wrench.svg134225788123002855 0
 130C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\es-abstract\2020\AsyncIteratorClose.js134225787906737014 0
@@ -332,7 +332,7 @@
 130C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@swc\helpers\_\_ts_values\package.json134225787932734472 0
 119C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\node-addon-api\package.json134225787887790055 0
 148C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\pencil.svg134225788066340400 0
-117C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\fa-v4compatibility.8f8c5e9b.woff2134227376010946742 0
+117C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\fa-v4compatibility.8f8c5e9b.woff2134227391531198040 0
 128C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\available-typed-arrays\test\index.js134225787878511812 0
 135C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\stylelint-scss\src\utils\getAtRuleParams.js134225787888204054 0
 157C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\stylelint\lib\rules\font-family-no-missing-generic-family-keyword134225787916184621 1
@@ -364,7 +364,7 @@
 136C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\stylelint\lib\utils\configurationComment.mjs134225787892626286 0
 144C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs\regular\truck.svg134225788110966932 0
 123C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\caniuse-lite\data\regions\HR.js134225787950644273 0
-105C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\src\assets\scripts\main.js134226583296304856 0
+105C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\src\assets\scripts\main.js134227391525906998 0
 119C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@keyv\bigmap\dist\index.cjs134225787871486202 0
 147C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs\solid\franc-sign.svg134225788023648123 0
 103C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\cosmiconfig134225787887991009 1
@@ -3177,7 +3177,7 @@
 125C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@parcel\packager-css\package.json134225787876224906 0
 122C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\bootstrap\js\dist\toast.js.map134225787927389065 0
 119C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\stylelint-scss\package.json134225787916960834 0
-102C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\logo1.dd3067ba.png134227376011410272 0
+102C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\logo1.dd3067ba.png134227391531654588 0
 124C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\package-json-from-dist\README.md134225787886077943 0
 116C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\stylelint-scss\README.md134225787917121335 0
 110C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\stylelint-scss\src134225787894451375 1
@@ -5112,7 +5112,7 @@
 120C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\safe-regex-test\package.json134225787876883826 0
 152C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs-full\brands\gitkraken.svg134225788026141703 0
 124C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\es-abstract\2017\ToUint8Clamp.js134225787988328716 0
-106C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\ponente-4.892c488e.jpg134227376010946742 0
+106C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\ponente-4.892c488e.jpg134227391531230066 0
 132C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\rimraf\dist\commonjs\readdir-or-error.js134225787891753209 0
 125C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\object.assign\.github\FUNDING.yml134225787893714216 0
 116C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\graceful-fs\polyfills.js134225787876540095 0
@@ -10387,7 +10387,7 @@
 130C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@parcel\packager-js\lib\DevPackager.js134225787881153183 0
 124C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\css-tree\lib\generator\create.js134225787922772789 0
 130C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\css-tree\lib\generator\token-before.js134225787937980199 0
-106C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\ponente-3.276b5ad3.jpg134227376011376319 0
+106C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\ponente-3.276b5ad3.jpg134227391530628827 0
 137C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\css-tree\lib\definition-syntax\SyntaxError.js134225787937819251 0
 124C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\css-tree\lib\convertor\create.js134225787922601097 0
 155C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs\solid\balance-scale-left.svg134225787957840481 0
@@ -13616,7 +13616,7 @@
 155C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\earth-oceania.svg134225788007929820 0
 137C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@parcel\optimizer-image\lib\ImageOptimizer.js134225787871486202 0
 118C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@parcel\optimizer-html\lib134225787871015542 1
-106C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\ponente-1.8346b4a4.jpg134227376011390121 0
+106C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\ponente-1.8346b4a4.jpg134227391530658936 0
 127C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@parcel\optimizer-html\package.json134225787875751280 0
 118C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@parcel\optimizer-html\src134225787873447346 1
 135C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@parcel\optimizer-html\src\HTMLOptimizer.js134225787873741618 0
@@ -14955,7 +14955,7 @@
 151C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\paperclip.svg134225788064917953 0
 155C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\parachute-box.svg134225788064917953 0
 147C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\paste.svg134225788065235118 0
-112C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\fa-brands-400.ee6b33d7.woff2134227376011420293 0
+112C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\fa-brands-400.ee6b33d7.woff2134227391530658936 0
 154C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\pause-circle.svg134225788065421719 0
 147C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\peace.svg134225788065708918 0
 149C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs-full\solid\pen-alt.svg134225788065708918 0
@@ -16167,7 +16167,7 @@
 150C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs\solid\face-sad-tear.svg134225788014293462 0
 152C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs\solid\face-smile-beam.svg134225788014430180 0
 141C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs\solid\moon.svg134225788060156434 0
-111C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\fa-solid-900.7a8b1c1f.woff2134227376011420293 0
+111C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\fa-solid-900.7a8b1c1f.woff2134227391530668986 0
 150C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs\solid\face-surprise.svg134225788014858653 0
 140C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs\solid\fan.svg134225788015242907 0
 144C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs\solid\feather.svg134225788015696370 0
@@ -16326,7 +16326,7 @@
 148C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs\solid\laptop-file.svg134225788047682883 0
 149C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs\solid\laptop-house.svg134225788047682883 0
 151C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs\solid\laptop-medical.svg134225788047810109 0
-106C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\ponente-5.4fb1c9bd.jpg134227376011410272 0
+106C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\ponente-5.4fb1c9bd.jpg134227391530648914 0
 149C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs\solid\laugh-squint.svg134225788048404615 0
 148C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs\solid\layer-group.svg134225788048679511 0
 141C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@fortawesome\fontawesome-free\svgs\solid\leaf.svg134225788048739714 0
@@ -17303,7 +17303,7 @@
 155C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@csstools\postcss-syntax-descriptor-syntax-production\README.md134225787874962046 0
 160C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@csstools\postcss-syntax-descriptor-syntax-production\dist\index.mjs134225787877103804 0
 146C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@csstools\postcss-stepped-value-functions\CHANGELOG.md134225787871015542 0
-111C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\fira-totssants.3377c607.css134227381604326177 0
+111C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\fira-totssants.3377c607.css134227391531177913 0
 138C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@csstools\postcss-stepped-value-functions\dist134225787878924338 1
 144C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@csstools\postcss-stepped-value-functions\LICENSE.md134225787873108666 0
 146C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@csstools\postcss-stepped-value-functions\package.json134225787867890951 0
@@ -17311,7 +17311,7 @@
 148C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@csstools\postcss-stepped-value-functions\dist\index.mjs134225787877103804 0
 129C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@csstools\postcss-sign-functions\dist134225787878914230 1
 141C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@csstools\postcss-scope-pseudo-class\CHANGELOG.md134225787871015542 0
-111C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\fira-totssants.8c2b4086.css134227376011772098 0
+111C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\fira-totssants.8c2b4086.css134227391531177913 0
 139C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@csstools\postcss-scope-pseudo-class\LICENSE.md134225787873108666 0
 138C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@csstools\postcss-scope-pseudo-class\README.md134225787874962046 0
 144C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\@csstools\postcss-scope-pseudo-class\dist\index.d.ts134225787879241828 0
@@ -17555,17 +17555,17 @@
 123C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\.bin\update-browserslist-db.ps1134225788127771842 0
 106C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\.bin\which.cmd134225788127771842 0
 106C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\node_modules\.bin\which.ps1134225788127751720 0
-97C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\articulo.html134227376010861953 0
-97C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\contacto.html134227376011300101 0
-113C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\fa-regular-400.e6d1423f.woff2134227376010851933 0
-113C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\fira-agricultura.b11eb05d.jpg134227376012192901 0
-109C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\fira-mercado.5e541046.jpg134227376012007975 0
-115C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\fira-totssants.3377c607.css.map134227381604431678 0
-110C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\fira-totssants.8191162c.js134227376011802159 0
-114C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\fira-totssants.8191162c.js.map134227376012172871 0
-115C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\fira-totssants.8c2b4086.css.map134227376012138600 0
-94C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\index.html134227376011310151 0
-106C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\ponente-2.2ac0e4cc.jpg134227376010946742 0
-106C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\ponente-6.1fde2bea.jpg134227376011280042 0
-97C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\ponentes.html134227376011300101 0
-104C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\portada.8afcf1a9.png134227376012423055 0
+97C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\articulo.html134227391531292117 0
+97C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\contacto.html134227391530166907 0
+113C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\fa-regular-400.e6d1423f.woff2134227391531240081 0
+113C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\fira-agricultura.b11eb05d.jpg134227391532061777 0
+109C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\fira-mercado.5e541046.jpg134227391531177913 0
+115C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\fira-totssants.3377c607.css.map134227391531644555 0
+110C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\fira-totssants.8191162c.js134227391531495641 0
+114C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\fira-totssants.8191162c.js.map134227391531955381 0
+115C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\fira-totssants.8c2b4086.css.map134227391531644555 0
+94C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\index.html134227391530166907 0
+106C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\ponente-2.2ac0e4cc.jpg134227391531240081 0
+106C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\ponente-6.1fde2bea.jpg134227391531495641 0
+97C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\ponentes.html134227391530166907 0
+104C:\Users\cpgra\git\uoc\HTML_II\PEC2\PEC2-HTML-Y-CSS-II-CPEREZGR\fira-totssants\dist\portada.8afcf1a9.png134227391532051763 0
