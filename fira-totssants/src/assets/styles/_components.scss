@@ -30,7 +30,6 @@
 
   .poster {
     display: flex;
-    //min-height: clamp(rem(430), 66dvh, rem(640));
     min-height: clamp(rem(360), 56dvh, rem(520));
     flex-direction: column;
     justify-content: center;
